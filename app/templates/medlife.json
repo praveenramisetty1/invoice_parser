@@ -1,0 +1,8 @@
+{
+  "match": "Medlife|MLF",
+  "fields": {
+    "invoice_number": "Inv#:\\s*(\\w+)",
+    "date": "Date:\\s*([\\d-/]+)",
+    "amount": "Amount Due:\\s*Rs\\.\\s*([\\d,.]+)"
+  }
+}

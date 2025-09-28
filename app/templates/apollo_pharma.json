@@ -1,0 +1,8 @@
+{
+  "match": "Apollo Pharma|APPL",
+  "fields": {
+    "invoice_number": "Invoice No:\\s*(\\w+)",
+    "date": "Date:\\s*(\\d{2}-\\d{2}-\\d{4})",
+    "amount": "Total Amount:\\s*₹?([\\d,.]+)"
+  }
+}

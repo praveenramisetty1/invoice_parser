@@ -1,0 +1,7 @@
+{
+  "invoice_number": "Invoice Number:\\s*(\\S+)",
+  "date": "Date:\\s*([\\d-]+)",
+  "bill_to": "Bill To:\\s*(.+)",
+  "item": "Item:\\s*(.+)",
+  "amount": "Amount:\\s*\\$?([\\d.,]+)"
+}
