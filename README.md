@@ -1,6 +1,6 @@
 # 🧾 Invoice Parser Microservice
 
-A lightweight FastAPI microservice for parsing medical distributor invoices (PDF) into structured JSON data using vendor-specific regex templates.
+A lightweight FastAPI microservice for parsing nvoices (PDF) into structured JSON data using vendor-specific regex templates.
 
 ---
 
